@@ -1,0 +1,20 @@
+{
+  "title": "Oooh aleks",
+  "url": "devlog.ohaleks.dev",
+  "description": "This is basically my mind dump for dev related thoughts and what I've been up to",
+  "feed": {
+    "subtitle": "This is basically my mind dump for dev related thoughts and what I've been up to",
+    "filename": "feed.xml",
+    "path": "/feed/feed.xml",
+    "id": "https://example.com/"
+  },
+  "jsonfeed": {
+    "path": "/feed/feed.json",
+    "url": "https://example.com/feed/feed.json"
+  },
+  "author": {
+    "name": "Aleksander Brymora",
+    "email": "brymora.aleksander@gmail.com",
+    "url": "www.ohaleks.dev"
+  }
+}
